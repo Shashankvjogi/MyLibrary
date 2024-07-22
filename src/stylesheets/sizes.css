@@ -85,6 +85,17 @@
 .mr-3 {
     margin-right: 30px;
 }
+.p-1 {
+    padding: 10px;
+}
+
+.p-2 {
+    padding: 20px;
+}
+
+.p-3 {
+    padding: 30px;
+}
 
 .pt-1 {
     padding-top: 10px;
